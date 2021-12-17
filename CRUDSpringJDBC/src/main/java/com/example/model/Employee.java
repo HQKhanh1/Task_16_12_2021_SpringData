@@ -1,4 +1,4 @@
-package Spring_JDBC.model;
+package com.example.model;
 
 public class Employee {
 
